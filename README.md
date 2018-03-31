@@ -1,5 +1,5 @@
 # ud036_StarterCode
-Source code for the Movie Trailer website.
+This project provides a webpage that lists movies and when movie posters are clicked will play the corresponding movie trailer. 
 
 ## Getting Started
 These instructions will get you a copy of the project on your local machine for development and/or testing purposes.
