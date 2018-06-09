@@ -1,4 +1,4 @@
-# ud036_StarterCode
+# movie-trailer
 This project provides a webpage that lists movies, when the movie posters are clicked, the corresponding movie trailer will play via YouTube.
 
 ## Getting Started
